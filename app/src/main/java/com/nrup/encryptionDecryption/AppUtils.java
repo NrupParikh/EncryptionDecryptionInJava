@@ -6,6 +6,7 @@ import java.nio.charset.StandardCharsets;
 
 public class AppUtils {
 
+
     public static byte[] decode(String data, int padding) {
         return Base64.decode(data.getBytes(StandardCharsets.UTF_8), padding);
     }
