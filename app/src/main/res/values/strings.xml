@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EncryptionDecryption</string>
+    <string name="enter_plain_text">Enter Plain Text</string>
+    <string name="encrypted_text">Encrypted Text</string>
+    <string name="perform_decryption">Perform Decryption</string>
+    <string name="decrypted_text">Decrypted Text</string>
+</resources>
